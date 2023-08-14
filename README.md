@@ -15,4 +15,5 @@ Here's a quick overview:
 5. **Project Conclusion**: We summarize our journey, highlighting our successes in predicting cognitive categories and offering insights into cognitive attributes.
 
 
-![pexels-bruno-thethe-1910236](https://github.com/lacomaofficial/Neural-Decoding-LightGBM-Classifier/assets/132283879/9c99d522-cdf0-4cf4-9fe2-df186dc3564e)
+
+![pexels-rakicevic-nenad-1274260](https://github.com/lacomaofficial/Neural-Decoding-LightGBM-Classifier/assets/132283879/18baaa13-cbd3-4789-8b5a-9a3f138ce9f2)
