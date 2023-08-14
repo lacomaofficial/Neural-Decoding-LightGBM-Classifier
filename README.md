@@ -18,7 +18,7 @@ Here's a quick overview:
 
  - **Summary**: The model excels in "face" and "rest" prediction, while "shoe" classification can be enhanced.
 
-4. **Feature Importance Visualization**: Visualizing feature importances, we unveil key brain regions driving our model's predictions.
+4. **Feature Importance Visualization**: We unveil key brain regions driving our model's predictions.
 
 5. **Project Conclusion**: Our model was great at recognizing faces and rest states, with room to improve on shoes. By visualizing key brain areas, we fused data science and neuroscience, uncovering cognitive insights from brain data.
 
