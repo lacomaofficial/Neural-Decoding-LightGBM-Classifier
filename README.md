@@ -10,13 +10,13 @@ Here's a quick overview:
 
 3. **Performance Assessment**: We evaluate the model's performance
 
-- **Classification Report**: Analyzing precision scores:
-  - "Face" predictions show the highest precision (86%).
-  - "Rest" predictions also have high precision (86%).
-  - "Scrambledpix" and "House" predictions exhibit comparable precision (86% and 79% respectively).
-  - "Shoe" predictions display the lowest precision (65%).
+ - **Classification Report**:
+   - "Face" predictions show the highest precision (86%).
+   - "Rest" predictions also have high precision (86%).
+   - "Scrambledpix" and "House" predictions exhibit comparable precision (86% and 79% respectively).
+   - "Shoe" predictions display the lowest precision (65%).
 
-- **Summary**: The model excels in "face" and "rest" prediction, while "shoe" classification can be enhanced.
+ - **Summary**: The model excels in "face" and "rest" prediction, while "shoe" classification can be enhanced.
 
 4. **Feature Importance Visualization**: Visualizing feature importances, we unveil key brain regions driving our model's predictions.
 
