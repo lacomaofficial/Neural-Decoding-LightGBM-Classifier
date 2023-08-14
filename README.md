@@ -1,4 +1,4 @@
-Neuroimaging Decoding with LightGBM
+# Neuroimaging Decoding with LightGBM
 In this project, we'll train a light gradient-boosting machine classifier to decode brain signals using the Haxby dataset.
 
 
