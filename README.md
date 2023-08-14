@@ -24,4 +24,6 @@ Here's a quick overview:
 
 
 
-![Screenshot 2023-08-14 131437](https://github.com/lacomaofficial/Neuro-Decoding-LightGBM-Classifier/assets/132283879/7438d586-70c5-4fc5-9567-ea9d6b9bf911)
+
+![Screenshot 2](https://github.com/lacomaofficial/Neuro-Decoding-LightGBM-Classifier/assets/132283879/597fbc1b-68d5-4514-b244-91f3320819be)
+
