@@ -4,9 +4,9 @@ In this project, we'll train a light gradient-boosting machine classifier to dec
 
 Here's a quick overview:
 
-1. **Data Preparation**: We fetch the Haxby dataset, set up paths, load functional MRI data, and mask and preprocess it for analysis.
+1. **Data Preparation**: We fetch the Haxby dataset, set up paths, load functional MRI data, mask and preprocess it for analysis.
 
-2. **LightGBM Modeling**: We train and fine-tune a LightGBM classifier to predict cognitive categories. Our model excels in identifying faces and rest states.
+2. **LightGBM Modeling**: We train and fine-tune a LightGBM classifier to predict cognitive categories.
 
 3. **Performance Assessment**: We evaluate the model's performance
 
